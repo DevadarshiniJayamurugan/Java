@@ -162,23 +162,33 @@
 ![50](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/cd7cd2aa-585b-40c8-9d00-655eb2ec6810)
 
 ## Expt 51:
+![51](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/49c61b83-e8f3-45e4-837c-44de0140b7bf)
 
 ## Expt 52:
+![52](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/5783d863-2877-4283-84de-fc3f100805ec)
 
 ## Expt 53:
+![53](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/ab1e8cff-2cc1-4885-84ee-6fb723332724)
 
 ## Expt 54:
+![54](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/21d353da-b467-496e-91e5-f567e17e5ebc)
 
 ## Expt 55:
+![55](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/ae3b0196-7c45-4cb1-807a-74ccc9332048)
 
 ## Expt 56:
+![56](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/b8e5a248-ca0e-4596-bcf9-4562b98716bb)
 
 ## Expt 57:
+![57](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/15ffc6c8-f65a-4a4e-8c27-983fafa4c304)
 
 ## Expt 58:
+![58](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/96024ccc-ff80-475e-a1df-88974ef6544d)
 
 ## Expt 59:
+![59](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/a3ca98da-0f1f-40b3-b1c3-65d451825a73)
 
 ## Expt 60:
+![60](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/1a35f0b3-4b03-4d04-b780-6a07e2d83ce3)
 
 _______________________________________________________________________________________________________________________________________________________________________
