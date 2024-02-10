@@ -79,4 +79,96 @@
 
 ## Expt 27:
 ![27](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/f5fcc2b2-b35e-4ba5-950a-25b2d928b6c0)
+
+## Expt 28:
+![28](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/7cea8fad-7a22-402d-a35e-dbdf7759228b)
+
+## Expt 29:
+
+![29](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/93ab22f7-abf7-4003-9e43-2ffc260de85c)
+
+## Expt 30:
+
+![30](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/bd3bc7c7-7538-4c3e-ab27-dfdd305d3bda)
+
+## Expt 31:
+
+![31](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/e455c2a7-c58f-4868-8115-3342b511478e)
+
+## Expt 32:
+
+![32](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/74e9469f-3def-42bf-aa9a-29219ff738b5)
+
+## Expt 33:
+
+![33](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/d0feb464-ed1b-4615-831f-c7e9c35b374d)
+
+## Expt 34:
+
+![34](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/a579ffc1-d3e7-433a-996d-0b63069e8a40)
+
+## Expt 35:
+
+![35](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/a320adcf-9c36-47e8-a185-df1bb4d1fc36)
+
+## Expt 36:
+
+![36](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/4c290401-a3b2-48c8-93b2-70126b7d5476)
+
+## Expt 37:
+
+![37](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/81e10ff7-70f8-4356-9518-43d273243b9f)
+
+## Expt 38:
+
+![38](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/a1f79f62-6c09-4f22-832f-ec31b11cb50f)
+
+## Expt 39:
+
+![39](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/fab6f6e7-8482-433f-b0ac-6c5446fe9283)
+
+## Expt 40:
+
+![40](https://github.com/DevadarshiniJayamurugan/Java/assets/100745306/fcbfcee4-928a-4fee-bdcc-eefbd49c6822)
+
+## Expt 41:
+
+## Expt 42:
+
+## Expt 43:
+
+## Expt 44:
+
+## Expt 45:
+
+## Expt 46:
+
+## Expt 47:
+
+## Expt 48:
+
+## Expt 49:
+
+## Expt 50:
+
+## Expt 51:
+
+## Expt 52:
+
+## Expt 53:
+
+## Expt 54:
+
+## Expt 55:
+
+## Expt 56:
+
+## Expt 57:
+
+## Expt 58:
+
+## Expt 59:
+
+## Expt 60:
+
 _______________________________________________________________________________________________________________________________________________________________________
